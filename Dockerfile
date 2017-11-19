@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM arm64v8/debian
 
 MAINTAINER Andre Germann <info@buanet.de>
 
